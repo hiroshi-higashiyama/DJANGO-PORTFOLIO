@@ -97,3 +97,12 @@ main {
   color: #ee6c4d;
   text-decoration: none;
 }
+
+.avatar img{
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.icon{
+  padding: 10px 8px;
+}
